@@ -7,10 +7,12 @@ export default {
     colors: {
       black: colors.black,
       white: colors.white,
+      transparent: colors.transparent,
       primary: "#76ABAE",
       "primary-variant": "#54898A",
       background: "#222831",
       surface: "#31363F",
+      "surface-variant": "#444b57",
       error: "#C12A3E",
     },
     extend: {
